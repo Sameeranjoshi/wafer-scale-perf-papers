@@ -2,7 +2,7 @@
 List of Cerebras systems-related papers.
 
 ## Papers
-Rocki, Kamil, Dirk Van Essendelft, Ilya Sharapov, Robert Schreiber, Michael Morrison, Vladimir Kibardin, Andrey Portnoy, Jean Francois Dietiker, Madhava Syamlal, and Michael James. "[Fast stencil-code computation on a wafer-scale processor.]" In SC20: International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-14. IEEE, 2020.
+Rocki, Kamil, Dirk Van Essendelft, Ilya Sharapov, Robert Schreiber, Michael Morrison, Vladimir Kibardin, Andrey Portnoy, Jean Francois Dietiker, Madhava Syamlal, and Michael James. "[Fast stencil-code computation on a wafer-scale processor.]" In SC20: International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-14. IEEE, 2020.(https://arxiv.org/pdf/2010.03660.pdf?trk=public_post_comment-text)
 ### Cerebras
 - [The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/abs/2002.03794) by Mingzhen Li et al., TPDS 2020
 - [An In-depth Comparison of Compilers for DeepNeural Networks on Hardware](https://ieeexplore.ieee.org/document/8782480) by Yu Xing et al., ICESS 2019
