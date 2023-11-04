@@ -3,7 +3,7 @@ List of Cerebras systems-related papers.
 
 ## Blogs
 
-- [A great blog series about the AI hardware landscape](https://medium.com/@adi.fu7)Must read
+- [A great blog series about the AI hardware landscape](https://medium.com/@adi.fu7)(Must read)
 
 ## Cerebras
 - [Fast stencil-code computation on a wafer-scale processor.](https://arxiv.org/pdf/2010.03660.pdf?trk=public_post_comment-text) In SC20: International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-14. IEEE, 2020.
