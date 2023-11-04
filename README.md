@@ -1,6 +1,10 @@
 # wafer-scale-perf-papers
 List of Cerebras systems-related papers.
 
+## Blogs
+
+- [A great blog series about the AI hardware landscape(Must read)](https://medium.com/@adi.fu7)
+
 ## Cerebras
 - [Fast stencil-code computation on a wafer-scale processor.](https://arxiv.org/pdf/2010.03660.pdf?trk=public_post_comment-text) In SC20: International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-14. IEEE, 2020.
 - Jacquelin, Mathias, Mauricio Araya–Polo, and Jie Meng. "[Scalable distributed high-order stencil computations.](https://ieeexplore.ieee.org/iel7/10046045/10045783/10046080.pdf?casa_token=vwz495dv96QAAAAA:qfFrpLbOIP8CCfDWzsxcBcDIn1BF9270TViJ-PSPzf4JjVnC-FcbHw8oKjL-Sw_366zFzK0e)" SC22: International Conference for High Performance Computing, Networking, Storage and Analysis. IEEE, 2022.
